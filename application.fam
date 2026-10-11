@@ -8,7 +8,7 @@ App(
     fap_category="GPIO",
     fap_icon_assets="assets",
     fap_description="Hello World C++ Flipper app", 
-    fap_author="JBlanked",
-    fap_weburl="https://github.com/jblanked",
+    fap_author="kilnwire",
+    fap_weburl="https://github.com/kilnwire/Hello-World-Flipper-Zero",
     fap_version="1.0",
 )
