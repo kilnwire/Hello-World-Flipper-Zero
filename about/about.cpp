@@ -2,7 +2,7 @@
 
 HelloWorldAbout::HelloWorldAbout(ViewDispatcher **viewDispatcher) : widget(nullptr), viewDispatcherRef(viewDispatcher)
 {
-    easy_flipper_set_widget(&widget, HelloWorldViewAbout, "Simple C++ Flipper app\n\n\n\n\nwww.github.com/jblanked", callbackToSubmenu, viewDispatcherRef);
+    easy_flipper_set_widget(&widget, HelloWorldViewAbout, "Simple C++ Flipper app\n\n\n\n\nwww.github.com/kilnwire", callbackToSubmenu, viewDispatcherRef);
 }
 
 HelloWorldAbout::~HelloWorldAbout()

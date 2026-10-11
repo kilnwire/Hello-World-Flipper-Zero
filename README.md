@@ -1,16 +1,9 @@
 # Hello World
 
-Simple C++ application for the Flipper Zero. kilnwire maintains this copy for their own Flipper work.
+Simple C++ application for the Flipper Zero. kilnwire maintains this app.
 
-## Credit
+## About
 
-This project is based on [Hello World](https://github.com/jblanked/Hello-World-Flipper-Zero) by [JBlanked](https://github.com/jblanked). JBlanked simplified it from the Free Roam app as a template for creating FlipperHTTP apps.
+A small C++ Flipper Zero app, used as a starting point for FlipperHTTP-style apps.
 
-Original links:
-
-- Discord: https://discord.gg/5aN9qwkEc6
-- YouTube: https://www.youtube.com/@jblanked
-- Instagram: https://www.instagram.com/jblanked
-- Other: https://www.jblanked.com/social/
-
-The original commit history is kept. Source file headers that name JBlanked, and the jsmn copyright held by Serge Zaitsev, stay as they are.
+The code began as [JBlanked's Hello World template](https://github.com/jblanked/Hello-World-Flipper-Zero). This repository is kilnwire's own copy.
